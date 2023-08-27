@@ -28,23 +28,7 @@ The CSV/Excel to SQL Integration project focuses on seamlessly integrating local
 - Streamlining of querying and response generation from the database using auto-generated SQL queries.
 - Unification of both projects within a single Streamlit interface, enhancing user experience and intuitiveness.
 
-## Getting Started
 
-To get started with each project, follow the instructions provided in their respective directories:
-
-- **PDF Chat Solution**: [Link to PDF Chat Solution Documentation](/pdf-chat-solution)
-- **CSV/Excel to SQL Integration**: [Link to CSV/Excel to SQL Integration Documentation](/csv-excel-to-sql-integration)
-
-## Contributions
-
-Contributions to this project are welcome! If you'd like to contribute, please follow the standard GitHub fork and pull request workflow.
-
-## Contact
-
-If you have any questions or need further information, feel free to contact our team:
-
-- Project Lead: [Your Name](mailto:your.email@example.com)
-- Project Repository: [GitHub Repository Link](https://github.com/yourusername/project-repo)
 
 ## License
 
